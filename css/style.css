@@ -1,0 +1,87 @@
+* {
+    padding: 0 auto;
+    margin: 0 auto;
+ }
+
+ body {
+ 	width: 90vw;
+ 	background-color: #ffffcc;
+ 	font-family: 'Courgette', cursive;
+ }
+
+#navigatie {
+	height: 800px;
+}
+
+#navigatie ul {
+	list-style: none;
+}
+
+#navigatie ul li a {
+	text-decoration: none;
+	position: relative;
+	left: 25vw;
+	margin: 1vw 5vw;
+	float: left;
+	font-size: 2vw;
+	top: -15vh;
+	color: black;
+
+}
+#navigatie ul li a {
+   border-radius: 50vh;
+   background-color:#ffff99;
+   border: 2px solid;
+ }
+
+#logo {
+	height: 12vw;
+
+}
+
+.mySlides {
+	display:none;
+	border: 5px solid;
+    
+}
+
+#Home {
+	text-align: center;
+}
+#hometekst {
+	font-size: 5vw;
+}
+#teksthome {
+	font-size: 3vw;
+}
+
+#assortimententekst {
+	font-size: 5vw;
+	text-align: center;
+	margin-top: 30vh;
+}
+#tekstassortimenten {
+	font-size: 3vw;
+	text-align: center;
+	margin-top: 5vh;
+}
+
+.gebakjes {
+	margin-top: 10vh;
+	width: 250px;
+	height: 200px;
+	padding: 26px;
+}
+
+#contact {
+	background-color: black;
+}
+#adresgegevens {
+	margin-left: 60vw;
+	font-size: 2vw;
+	margin-top: 4vh;
+}
+#googleMap {
+	margin-left: 120px;
+}
+
